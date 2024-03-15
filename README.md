@@ -6,7 +6,7 @@ Thank you for considering providing feedback to us! Your insights help us improv
 
 ## How to Give Feedback
 
-1. **Navigate to the Issues Tab**: Go to the [Issues](https://github.com/yourusername/openq-feedback/issues) tab of the openq-feedback repository.
+1. **Navigate to the Issues Tab**: Go to the [Issues](https://github.com/OpenQDev/openq-feedback/issues) tab of the openq-feedback repository.
 
 2. **Check Existing Issues**: Before creating a new issue, check if someone else has already reported the same feedback or issue. If you find a similar one, you can add your thoughts or reactions as comments.
 
